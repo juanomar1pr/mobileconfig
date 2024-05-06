@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+    <key>PayloadContent</key>
+    <array>
+        <dict>
+            <key>AutoJoin</key>
+            <true/>
+            <key>CaptiveBypass</key>
+            <false/>
+            <key>EncryptionType</key>
+            <string>WPA2</string>
+            <key>HIDDEN_NETWORK</key>
+            <true/>
+            <key>IsHotspot</key>
+            <false/>
+            <key>Password</key>
+            <string>Password de La red</string>
+            <key>PayloadDescription</key>
+            <string>Configures Wi-Fi settings</string>
+            <key>PayloadDisplayName</key>
+            <string>Nunis Wi-Fi</string>
+            <key>PayloadIdentifier</key>
+            <string>com.apple.wifi.managed.5A2AE473-F6B7-4D60-9778-B25D26317C41</string>
+            <key>PayloadType</key>
+            <string>com.apple.wifi.managed</string>
+            <key>PayloadUUID</key>
+            <string>5A2AE473-F6B7-4D60-9778-B25D26317C41</string>
+            <key>PayloadVersion</key>
+            <integer>1</integer>
+            <key>ProxyType</key>
+            <string>None</string>
+            <key>SSID_STR</key>
+            <string>Nombre_dela_red</string>
+        </dict>
+    </array>
+    <key>PayloadDisplayName</key>
+    <string>NUNI'S Wi-Fi</string>
+    <key>PayloadIdentifier</key>
+    <string>WiFi-PSK-Sample.D5B78A3C-CDA8-471F-984C-06F977EF870C</string>
+    <key>PayloadRemovalDisallowed</key>
+    <false/>
+    <key>PayloadType</key>
+    <string>Configuration</string>
+    <key>PayloadUUID</key>
+    <string>444C9683-221C-49AF-997D-2B6B84710DAA</string>
+    <key>PayloadVersion</key>
+    <integer>1</integer>
+</dict>
+</plist>
